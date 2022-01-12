@@ -6,7 +6,9 @@ A sample of using PlantUML in GitHub projects. Contains a custom theme, samples,
 Diagrams - UML, simple boxes and arrows, C4 - can massively increase understandability of software. Often, diagrams are maintained outside of the code base with specialized tools, which makes it a hassle to keep them up-to-date. I've seen outdated versions proliferate and cause confusion.
 They are often stored in binary formats making it hard to see what exactly changed between versions.
 
-Wouldn't it be nice if we could use code to create them, store them with our codebase, diff, and review them like any other source file. Turns out we can.
+Wouldn't it be nice if we could use code to create them, store them with our codebase, diff, and review them like any other source file?
+
+Turns out we can.
 
 ## How?
 
