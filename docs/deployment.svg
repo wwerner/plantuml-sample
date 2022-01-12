@@ -4,7 +4,7 @@ cluster appserver--><polygon fill="#FFFFFF" points="50.6066,68.9849,61.0233,58.5
 cluster orm--><path d="M207.8983,115.8599 L244.3566,115.8599 A6.25,6.25 0 0 1 248.5233,120.0265 L255.815,147.0773 L355.815,147.0773 A4.1667,4.1667 0 0 1 359.9816,151.244 L359.9816,228.3599 A4.1667,4.1667 0 0 1 355.815,232.5265 L207.8983,232.5265 A4.1667,4.1667 0 0 1 203.7316,228.3599 L203.7316,120.0265 A4.1667,4.1667 0 0 1 207.8983,115.8599 " fill="#FFFFFF" style="stroke:#2FA4E7;stroke-width:2.0833333333333335;"/><line style="stroke:#2FA4E7;stroke-width:2.0833333333333335;" x1="203.7316" x2="255.815" y1="147.0773" y2="147.0773"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="28.125" x="213.1066" y="134.7543">orm</text><!--MD5=[7468467f3b6b392f1d176d828c753b77]
 entity db--><path d="M463.1066,170.5474 C463.1066,160.1307 516.2316,160.1307 516.2316,160.1307 C516.2316,160.1307 569.3566,160.1307 569.3566,170.5474 L569.3566,204.8898 C569.3566,215.3065 516.2316,215.3065 516.2316,215.3065 C516.2316,215.3065 463.1066,215.3065 463.1066,204.8898 L463.1066,170.5474 " fill="#FFFFFF" style="stroke:#2FA4E7;stroke-width:1.5625;"/><path d="M463.1066,170.5474 C463.1066,180.964 516.2316,180.964 516.2316,180.964 C516.2316,180.964 569.3566,180.964 569.3566,170.5474 " fill="none" style="stroke:#2FA4E7;stroke-width:1.5625;"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="75" x="478.7316" y="201.9418">PostgreSQL</text><path d="M67.2733,159.6099 L67.2733,215.7622 A4.1667,4.1667 0 0 0 71.44,219.9289 L179.7733,219.9289 A4.1667,4.1667 0 0 0 183.94,215.7622 L183.94,191.9015 L220.0546,187.7349 L183.94,183.5682 L183.94,165.8599 L173.5233,155.4432 L71.44,155.4432 A4.1667,4.1667 0 0 0 67.2733,159.6099 " fill="#FFFFFF" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><path d="M173.5233,155.4432 L173.5233,163.7765 A2.0833,2.0833 0 0 0 175.6066,165.8599 L183.94,165.8599 L173.5233,155.4432 " fill="#FFFFFF" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><text fill="#033C73" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="78.125" x="78.7316" y="177.4626">The mapper</text><text fill="#033C73" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="67.7083" x="78.7316" y="192.0134">I shouldn't</text><text fill="#033C73" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="80.2083" x="82.8983" y="206.5642">have written</text><!--MD5=[4012916fe198bc3f9df72b2cceb048ac]
 entity mapper--><rect fill="#FFFFFF" height="56.2174" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="122.9167" x="220.3983" y="159.6099"/><rect fill="#FFFFFF" height="10.4167" style="stroke:#2FA4E7;stroke-width:1.5625;" width="15.625" x="322.4816" y="164.8182"/><rect fill="#FFFFFF" height="2.0833" style="stroke:#2FA4E7;stroke-width:1.5625;" width="4.1667" x="320.3983" y="166.9015"/><rect fill="#FFFFFF" height="2.0833" style="stroke:#2FA4E7;stroke-width:1.5625;" width="4.1667" x="320.3983" y="171.0682"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="70.8333" x="241.2316" y="197.2543">My mapper</text><!--MD5=[e9e0a42bc57fbc2bd1f2ddd244411a57]
-link mapper to db--><path d="M343.44,187.7349 C378.7108,187.7349 422.7316,187.7349 457.5233,187.7349 " fill="none" id="mapper-to-db" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="#2FA4E7" points="463.0233,187.7349,453.6483,183.5682,457.815,187.7349,453.6483,191.9015,463.0233,187.7349" style="stroke:#2FA4E7;stroke-width:3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="70.8333" x="367.7941" y="176.421">query data</text><!--MD5=[b83f8b6759e7134e11ed2bb79cf57666]
+link mapper to db--><path d="M343.44,187.7349 C378.7108,187.7349 422.7316,187.7349 457.5233,187.7349 " fill="none" id="mapper-to-db" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="#2FA4E7" points="463.0233,187.7349,453.6483,183.5682,457.815,187.7349,453.6483,191.9015,463.0233,187.7349" style="stroke:#2FA4E7;stroke-width:3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="70.8333" x="367.7941" y="176.421">query data</text><!--MD5=[465b58f39d758bbea5684742bbdafec3]
 @startuml deployment
 !theme local from ./
 
@@ -23,8 +23,6 @@ cloud {
 
     mapper -> db : query data
 }
-
-
 @enduml
 
 @startuml deployment
@@ -372,8 +370,6 @@ cloud {
 
     mapper -> db : query data
 }
-
-
 @enduml
 
 PlantUML version 1.2021.11(Sat Oct 02 13:26:11 GMT 2021)
