@@ -12,7 +12,7 @@ Turns out, using [PlantUML](https://plantuml.com/), we can.
 
 ## How?
 
-This repository contains a sample of how I currently to use it:
+This repository contains a sample of how I currently use it:
 
 - some PlantUML samples
 - a local theme
