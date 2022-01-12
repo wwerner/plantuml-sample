@@ -16,6 +16,4 @@ cloud {
 
     mapper -> db : query data
 }
-
-
 @enduml

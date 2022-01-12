@@ -12,12 +12,20 @@ Wouldn't it be nice if we could use code to create them, store them with our cod
 
 This repository contains a sample of how I currently to use it:
 
-* some PlantUML samples
-* a local theme
-* a GitHub workflow to render diagrams and commit them
-* this README embedding the rendered results
+- some PlantUML samples
+- a local theme
+- a GitHub workflow to render diagrams and commit them
+- this README embedding the rendered results
 
 ## Samples
+
+![deployment diagram](./docs/deployment.svg)
+
+![flow-chart](./docs/flow-chart.svg)
+
+![json](./docs/json-sample.svg)
+
+![sequence](./docs/gh-workflow.svg)
 
 ## Further Reading
 
@@ -25,3 +33,4 @@ This repository contains a sample of how I currently to use it:
 - [PlantUML reference](http://plantuml.com/en/guide)
 - [Integrations](https://plantuml.com/en/running)
 - [Blog post about PlantUML from jetbrains](https://blog.jetbrains.com/dotnet/2020/10/06/create-uml-diagrams-using-plantuml/)
+- [C4 & PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML)
