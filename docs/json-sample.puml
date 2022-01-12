@@ -1,6 +1,4 @@
 @startjson json-sample
-!theme local from ./
-
 {
   "firstName": "John",
   "lastName": "Smith",
