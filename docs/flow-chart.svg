@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="387.5px" preserveAspectRatio="none" style="width:306px;height:387px;background:#FFFFFF;" version="1.1" viewBox="0 0 306 387" width="306.25px" zoomAndPan="magnify"><defs/><g><ellipse cx="143.75" cy="20.8333" fill="#033C73" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><polygon fill="#FFFFFF" points="93.2292,52.0833,194.2708,52.0833,206.7708,64.5833,194.2708,77.0833,93.2292,77.0833,80.7292,64.5833,93.2292,52.0833" style="stroke:#BABDBF;stroke-width:1.5625;"/><text fill="#BABDBF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="90.625" x="98.4375" y="68.9107">Does it move?</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="21.875" x="53.6458" y="56.427">yes</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="211.9792" y="56.427">no</text><rect fill="#FFFFFF" height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#2FA4E7;stroke-width:1.5625;" width="97.9167" x="21.3542" y="143.7337"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="66.6667" x="36.9792" y="170.9615">Duct Tape</text><polygon fill="#FFFFFF" points="33.3333,87.5,107.2917,87.5,119.7917,100,107.2917,112.5,33.3333,112.5,20.8333,100,33.3333,87.5" style="stroke:#BABDBF;stroke-width:1.5625;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="79.6875" y="129.3111">no</text><text fill="#BABDBF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="63.5417" x="38.5417" y="104.3274">Should it?</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="21.875" x="125" y="91.8437">yes</text><polygon fill="#FFFFFF" points="70.3125,210.3678,82.8125,222.8678,70.3125,235.3678,57.8125,222.8678,70.3125,210.3678" style="stroke:#BABDBF;stroke-width:1.5625;"/><rect fill="#FFFFFF" height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#2FA4E7;stroke-width:1.5625;" width="68.75" x="182.8125" y="143.7337"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="37.5" x="198.4375" y="170.9615">WD40</text><polygon fill="#FFFFFF" points="180.2083,87.5,254.1667,87.5,266.6667,100,254.1667,112.5,180.2083,112.5,167.7083,100,180.2083,87.5" style="stroke:#BABDBF;stroke-width:1.5625;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="21.875" x="226.5625" y="129.3111">yes</text><text fill="#BABDBF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="63.5417" x="185.4167" y="104.3274">Should it?</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="271.875" y="91.8437">no</text><polygon fill="#FFFFFF" points="217.1875,210.3678,229.6875,222.8678,217.1875,235.3678,204.6875,222.8678,217.1875,210.3678" style="stroke:#BABDBF;stroke-width:1.5625;"/><polygon fill="#FFFFFF" points="143.75,241.6178,156.25,254.1178,143.75,266.6178,131.25,254.1178,143.75,241.6178" style="stroke:#BABDBF;stroke-width:1.5625;"/><rect fill="#FFFFFF" height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#2FA4E7;stroke-width:1.5625;" width="172.9167" x="57.2917" y="287.4512"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="141.6667" x="72.9167" y="314.679">Another job well done</text><ellipse cx="143.75" cy="365.5436" fill="#FFFFFF" rx="11.4583" ry="11.4583" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><ellipse cx="143.75" cy="365.5436" fill="#033C73" rx="6.25" ry="6.25" style="stroke:#819DB9;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="70.3125" x2="70.3125" y1="112.5" y2="143.7337"/><polygon fill="#2FA4E7" points="66.1458,133.3171,70.3125,143.7337,74.4792,133.3171,70.3125,137.4837" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="119.7917" x2="132.2917" y1="100" y2="100"/><polygon fill="#2FA4E7" points="128.125,161.4258,132.2917,171.8424,136.4583,161.4258,132.2917,165.5924" style="stroke:#2FA4E7;stroke-width:1.5625;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="132.2917" x2="132.2917" y1="100" y2="222.8678"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="132.2917" x2="82.8125" y1="222.8678" y2="222.8678"/><polygon fill="#2FA4E7" points="93.2292,218.7012,82.8125,222.8678,93.2292,227.0345,89.0625,222.8678" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="70.3125" x2="70.3125" y1="189.5345" y2="210.3678"/><polygon fill="#2FA4E7" points="66.1458,199.9512,70.3125,210.3678,74.4792,199.9512,70.3125,204.1178" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="217.1875" x2="217.1875" y1="112.5" y2="143.7337"/><polygon fill="#2FA4E7" points="213.0208,133.3171,217.1875,143.7337,221.3542,133.3171,217.1875,137.4837" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="266.6667" x2="279.1667" y1="100" y2="100"/><polygon fill="#2FA4E7" points="275,161.4258,279.1667,171.8424,283.3333,161.4258,279.1667,165.5924" style="stroke:#2FA4E7;stroke-width:1.5625;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="279.1667" x2="279.1667" y1="100" y2="222.8678"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="279.1667" x2="229.6875" y1="222.8678" y2="222.8678"/><polygon fill="#2FA4E7" points="240.1042,218.7012,229.6875,222.8678,240.1042,227.0345,235.9375,222.8678" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="217.1875" x2="217.1875" y1="189.5345" y2="210.3678"/><polygon fill="#2FA4E7" points="213.0208,199.9512,217.1875,210.3678,221.3542,199.9512,217.1875,204.1178" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="80.7292" x2="70.3125" y1="64.5833" y2="64.5833"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="70.3125" x2="70.3125" y1="64.5833" y2="87.5"/><polygon fill="#2FA4E7" points="66.1458,77.0833,70.3125,87.5,74.4792,77.0833,70.3125,81.25" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="206.7708" x2="217.1875" y1="64.5833" y2="64.5833"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="217.1875" x2="217.1875" y1="64.5833" y2="87.5"/><polygon fill="#2FA4E7" points="213.0208,77.0833,217.1875,87.5,221.3542,77.0833,217.1875,81.25" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="70.3125" x2="70.3125" y1="235.3678" y2="254.1178"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="70.3125" x2="131.25" y1="254.1178" y2="254.1178"/><polygon fill="#2FA4E7" points="120.8333,249.9512,131.25,254.1178,120.8333,258.2845,125,254.1178" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="217.1875" x2="217.1875" y1="235.3678" y2="254.1178"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="217.1875" x2="156.25" y1="254.1178" y2="254.1178"/><polygon fill="#2FA4E7" points="166.6667,249.9512,156.25,254.1178,166.6667,258.2845,162.5,254.1178" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="143.75" x2="143.75" y1="31.25" y2="52.0833"/><polygon fill="#2FA4E7" points="139.5833,41.6667,143.75,52.0833,147.9167,41.6667,143.75,45.8333" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="143.75" x2="143.75" y1="266.6178" y2="287.4512"/><polygon fill="#2FA4E7" points="139.5833,277.0345,143.75,287.4512,147.9167,277.0345,143.75,281.2012" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="143.75" x2="143.75" y1="333.252" y2="354.0853"/><polygon fill="#2FA4E7" points="139.5833,343.6686,143.75,354.0853,147.9167,343.6686,143.75,347.8353" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><!--MD5=[a0317e2bf2cb1b99e15df3b9b9712f86]
+@startuml flow-chart
+!theme local from ./
+
+start
+if (Does it move?) then (yes)
+    if (Should it?) then (yes)
+    else (no)
+        :Duct Tape;
+    endif
+else (no)
+    if (Should it?) then (yes)
+        :WD40;
+    else (no)
+    endif
+endif
+:Another job well done;
+stop
+@enduml
+
+@startuml flow-chart
+
+
+
+skinparam backgroundColor white
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #868E96
+skinparam stereotype {
+    CBackgroundColor #EDF0F2
+    CBorderColor #BABDBF
+    ABackgroundColor #8FB961
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor #D2494E
+    IBorderColor $DANGER_DARK
+    EBackgroundColor #E47833
+    EBorderColor $WARNING_DARK
+    NBackgroundColor #35638F
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 #2FA4E7
+	BorderColor	                 #BABDBF
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              white
+}
+
+skinparam legend {
+	BackgroundColor white
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+skinparam swimlane {
+	BorderColor #033C73
+	BorderThickness 2
+	TitleBackgroundColor  #EDF0F2-#E9ECEF
+	TitleFontColor #2FA4E7
+}
+
+
+skinparam activity {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	BarColor #73A839
+	StartColor #033C73
+	EndColor #033C73
+	DiamondBackgroundColor white
+  	DiamondBorderColor #BABDBF
+	DiamondFontColor #BABDBF
+}
+
+
+skinparam participant {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam sequence {
+	BorderColor #2FA4E7
+	TitleFontColor #2FA4E7
+	BackgroundColor white
+	StartColor #2FA4E7
+	EndColor #2FA4E7
+	BoxBackgroundColor white
+	BoxBorderColor #868E96
+	BoxFontColor #343A40
+	DelayFontColor #343A40
+	LifeLineBorderColor #BABDBF
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor white
+	GroupBorderColor #868E96
+	GroupFontColor #343A40
+	GroupHeaderFontColor #033C73
+	GroupBackgroundColor #E9ECEF
+	GroupBodyBackgroundColor white
+	GroupHeaderBackgroundColor white
+	DividerBackgroundColor white
+    DividerBorderColor #868E96
+    DividerBorderThickness 2
+    DividerFontColor #343A40
+	ReferenceBackgroundColor white
+	ReferenceBorderColor #868E96
+	ReferenceFontColor #343A40
+	ReferenceHeaderFontColor #033C73
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam partition {
+	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam collections {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam control {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam entity {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam boundary {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam agent {
+	BackgroundColor white
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor white
+	BorderColor #033C73
+	FontColor #033C73
+}
+
+
+skinparam artifact {
+	BackgroundColor white
+	BorderColor #868E96
+	FontColor #868E96
+}
+
+
+skinparam component {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam interface {
+	BackgroundColor  white
+	BorderColor  #C71C22
+	FontColor #343A40
+}
+
+
+skinparam storage {
+	BackgroundColor white
+  	BorderColor #DD5600
+	FontColor #DD5600
+}
+
+
+skinparam node {
+	BackgroundColor white
+	BorderColor #343A40
+	FontColor #343A40
+}
+
+
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor #35638F
+	FontColor #343A40
+}
+
+
+skinparam database {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam class {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	FontColor #F8F9FA
+	HeaderBackgroundColor #2FA4E7-#2683B9
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #BABDBF
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam rectangle {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam package {
+	BackgroundColor white
+  	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor white
+  	BorderColor #DD5600
+	FontColor #DD5600
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor white
+  	BorderColor #033C73
+	FontColor #033C73
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	StartColor #033C73
+	EndColor #033C73
+	AttributeFontColor #BABDBF
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam card {
+	BackgroundColor white
+	BorderColor #033C73
+	FontColor #033C73
+}
+
+
+skinparam file {
+	BackgroundColor white
+	BorderColor #868E96
+	FontColor #868E96
+}
+
+
+skinparam stack {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+
+
+start
+if (Does it move?) then (yes)
+    if (Should it?) then (yes)
+    else (no)
+        :Duct Tape;
+    endif
+else (no)
+    if (Should it?) then (yes)
+        :WD40;
+    else (no)
+    endif
+endif
+:Another job well done;
+stop
+@enduml
+
+PlantUML version 1.2021.11(Sat Oct 02 13:26:11 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

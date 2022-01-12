@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="311.4583px" preserveAspectRatio="none" style="width:638px;height:311px;background:#FFFFFF;" version="1.1" viewBox="0 0 638 311" width="638.5417px" zoomAndPan="magnify"><defs/><g><path d="M41.6208,28.4369 C56.0629,6.25 73.4557,9.9188 84.8838,31.4214 C98.9252,13.224 111.7343,12.3017 125.4863,31.7335 C134.6788,12.7626 154.641,11.1264 167.1753,27.828 C177.5121,11.3618 194.8907,10.9354 203.9857,29.1461 C216.3633,10.4851 229.4801,14.2626 239.738,31.2707 C251.9479,11.63 274.1586,13.0333 284.511,33.352 C294.3636,14.3615 312.7332,15.7965 322.8201,33.1047 C333.6405,12.7936 352.3679,10.7562 364.0204,32.2853 C376.0153,12.0405 388.9288,13.5591 402.3245,30.8562 C415.3032,15.1039 430.0474,13.3948 441.6238,32.4399 C452.9789,15.8542 466.4702,18.6389 477.2135,33.1403 C489.5334,11.3387 504.6318,13.8282 517.3959,32.7015 C532.0017,14.8603 548.5536,14.3687 560.8454,35.295 C572.8838,12.5272 591.0049,16.9415 602.69,35.6515 C605.0505,33.3 607.7883,34.2786 608.5346,37.3813 C628.4261,47.8385 627.7344,65.6517 607.0756,74.5157 C626.8587,84.6121 631.4206,97.1553 612.7913,112.9623 C629.0693,126.8369 626.7674,142.9537 608.4641,153.1001 C627.0604,166.7552 628.868,179.2173 607.9408,192.3454 C624.1843,202.3085 624.9993,220.8934 607.3106,230.293 C624.2391,249.5824 619.9502,266.1595 595.3983,274.1932 C595.7713,274.0291 595.9575,274.2623 595.928,274.6099 C590.0983,292.2119 574.3688,296.6502 561.4945,282.171 C548.9463,300.8711 531.1531,299.7995 522.2218,278.61 C510.1707,299.2627 495.2437,303.5368 479.5961,282.2668 C466.8785,301.9118 450.656,295.6477 441.5857,278.4989 C432.5553,297.8414 413.4809,298.0313 403.3746,279.5869 C390.018,298.1073 377.2349,300.7186 363.0978,280.3961 C352.5936,301.0019 336.3486,298.3791 323.7085,282.7158 C311.2327,301.0001 290.9828,300.1105 281.5247,279.4474 C269.5168,299.0651 253.5458,295.777 242.5494,278.3822 C232.7153,297.5834 216.531,297.9508 204.5264,280.6426 C194.1891,297.7771 177.2734,297.9544 166.1281,281.5682 C152.9257,295.8658 136.6121,298.6717 127.2669,277.3589 C115.563,298.5599 102.3991,296.4801 87.5982,280.6792 C64.9465,304.5162 42.6237,297.4639 33.94,266.9015 C36.8997,266.1546 38.7605,267.3661 38.6515,270.5654 C17.7295,258.4326 18.7366,242.5148 38.864,230.6003 C22.6011,224.4998 19.6946,208.6148 31.5963,196.51 C7.5242,186.8393 6.25,165.1138 28.8734,152.5507 C11.1438,142.6967 12.5463,127.7092 29.6562,118.6599 C13.7478,102.4749 13.9969,89.5191 35.1224,78.3569 C15.9903,62.3812 16.9652,39.0326 41.2316,28.3599 C41.4007,28.2129 41.5273,28.2025 41.6208,28.4369 " fill="#FFFFFF" style="stroke:#35638F;stroke-width:1.5625;"/><!--MD5=[77346d1b36d678fa941346521b212747]
+cluster dbserver--><polygon fill="#FFFFFF" points="424.565,121.589,434.9816,111.1724,586.0233,111.1724,586.0233,221.589,575.6066,232.0057,424.565,232.0057,424.565,121.589" style="stroke:#343A40;stroke-width:1.5625;"/><line style="stroke:#343A40;stroke-width:1.5625;" x1="575.6066" x2="586.0233" y1="121.589" y2="111.1724"/><line style="stroke:#343A40;stroke-width:1.5625;" x1="424.565" x2="575.6066" y1="121.589" y2="121.589"/><line style="stroke:#343A40;stroke-width:1.5625;" x1="575.6066" x2="575.6066" y1="121.589" y2="232.0057"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="71.875" x="465.19" y="141.5251">DB Server</text><!--MD5=[8a5903e9ef2b59c3fb47f48bdea8fc85]
+cluster appserver--><polygon fill="#FFFFFF" points="50.6066,68.9849,61.0233,58.5682,384.9816,58.5682,384.9816,247.1099,374.565,257.5265,50.6066,257.5265,50.6066,68.9849" style="stroke:#343A40;stroke-width:1.5625;"/><line style="stroke:#343A40;stroke-width:1.5625;" x1="374.565" x2="384.9816" y1="68.9849" y2="58.5682"/><line style="stroke:#343A40;stroke-width:1.5625;" x1="50.6066" x2="374.565" y1="68.9849" y2="68.9849"/><line style="stroke:#343A40;stroke-width:1.5625;" x1="374.565" x2="374.565" y1="68.9849" y2="257.5265"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="134.375" x="146.44" y="88.921">Application Server</text><!--MD5=[55e56c6495907da7bd861c9a73b5c237]
+cluster orm--><path d="M207.8983,115.8599 L244.3566,115.8599 A6.25,6.25 0 0 1 248.5233,120.0265 L255.815,147.0773 L355.815,147.0773 A4.1667,4.1667 0 0 1 359.9816,151.244 L359.9816,228.3599 A4.1667,4.1667 0 0 1 355.815,232.5265 L207.8983,232.5265 A4.1667,4.1667 0 0 1 203.7316,228.3599 L203.7316,120.0265 A4.1667,4.1667 0 0 1 207.8983,115.8599 " fill="#FFFFFF" style="stroke:#2FA4E7;stroke-width:2.0833333333333335;"/><line style="stroke:#2FA4E7;stroke-width:2.0833333333333335;" x1="203.7316" x2="255.815" y1="147.0773" y2="147.0773"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="28.125" x="213.1066" y="134.7543">orm</text><!--MD5=[7468467f3b6b392f1d176d828c753b77]
+entity db--><path d="M463.1066,170.5474 C463.1066,160.1307 516.2316,160.1307 516.2316,160.1307 C516.2316,160.1307 569.3566,160.1307 569.3566,170.5474 L569.3566,204.8898 C569.3566,215.3065 516.2316,215.3065 516.2316,215.3065 C516.2316,215.3065 463.1066,215.3065 463.1066,204.8898 L463.1066,170.5474 " fill="#FFFFFF" style="stroke:#2FA4E7;stroke-width:1.5625;"/><path d="M463.1066,170.5474 C463.1066,180.964 516.2316,180.964 516.2316,180.964 C516.2316,180.964 569.3566,180.964 569.3566,170.5474 " fill="none" style="stroke:#2FA4E7;stroke-width:1.5625;"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="75" x="478.7316" y="201.9418">PostgreSQL</text><path d="M67.2733,159.6099 L67.2733,215.7622 A4.1667,4.1667 0 0 0 71.44,219.9289 L179.7733,219.9289 A4.1667,4.1667 0 0 0 183.94,215.7622 L183.94,191.9015 L220.0546,187.7349 L183.94,183.5682 L183.94,165.8599 L173.5233,155.4432 L71.44,155.4432 A4.1667,4.1667 0 0 0 67.2733,159.6099 " fill="#FFFFFF" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><path d="M173.5233,155.4432 L173.5233,163.7765 A2.0833,2.0833 0 0 0 175.6066,165.8599 L183.94,165.8599 L173.5233,155.4432 " fill="#FFFFFF" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><text fill="#033C73" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="78.125" x="78.7316" y="177.4626">The mapper</text><text fill="#033C73" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="67.7083" x="78.7316" y="192.0134">I shouldn't</text><text fill="#033C73" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="80.2083" x="82.8983" y="206.5642">have written</text><!--MD5=[4012916fe198bc3f9df72b2cceb048ac]
+entity mapper--><rect fill="#FFFFFF" height="56.2174" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="122.9167" x="220.3983" y="159.6099"/><rect fill="#FFFFFF" height="10.4167" style="stroke:#2FA4E7;stroke-width:1.5625;" width="15.625" x="322.4816" y="164.8182"/><rect fill="#FFFFFF" height="2.0833" style="stroke:#2FA4E7;stroke-width:1.5625;" width="4.1667" x="320.3983" y="166.9015"/><rect fill="#FFFFFF" height="2.0833" style="stroke:#2FA4E7;stroke-width:1.5625;" width="4.1667" x="320.3983" y="171.0682"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="70.8333" x="241.2316" y="197.2543">My mapper</text><!--MD5=[e9e0a42bc57fbc2bd1f2ddd244411a57]
+link mapper to db--><path d="M343.44,187.7349 C378.7108,187.7349 422.7316,187.7349 457.5233,187.7349 " fill="none" id="mapper-to-db" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="#2FA4E7" points="463.0233,187.7349,453.6483,183.5682,457.815,187.7349,453.6483,191.9015,463.0233,187.7349" style="stroke:#2FA4E7;stroke-width:3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="70.8333" x="367.7941" y="176.421">query data</text><!--MD5=[b83f8b6759e7134e11ed2bb79cf57666]
+@startuml deployment
+!theme local from ./
+
+cloud {
+    node "DB Server" as dbserver {
+        database PostgreSQL as db
+    }
+    node "Application Server" as appserver {
+        package orm {
+            component "My mapper" as mapper
+        } 
+        note left of mapper: The mapper \nI shouldn't \n have written
+        
+
+    }
+
+    mapper -> db : query data
+}
+
+
+@enduml
+
+@startuml deployment
+
+
+
+skinparam backgroundColor white
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #868E96
+skinparam stereotype {
+    CBackgroundColor #EDF0F2
+    CBorderColor #BABDBF
+    ABackgroundColor #8FB961
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor #D2494E
+    IBorderColor $DANGER_DARK
+    EBackgroundColor #E47833
+    EBorderColor $WARNING_DARK
+    NBackgroundColor #35638F
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 #2FA4E7
+	BorderColor	                 #BABDBF
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              white
+}
+
+skinparam legend {
+	BackgroundColor white
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+skinparam swimlane {
+	BorderColor #033C73
+	BorderThickness 2
+	TitleBackgroundColor  #EDF0F2-#E9ECEF
+	TitleFontColor #2FA4E7
+}
+
+
+skinparam activity {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	BarColor #73A839
+	StartColor #033C73
+	EndColor #033C73
+	DiamondBackgroundColor white
+  	DiamondBorderColor #BABDBF
+	DiamondFontColor #BABDBF
+}
+
+
+skinparam participant {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam sequence {
+	BorderColor #2FA4E7
+	TitleFontColor #2FA4E7
+	BackgroundColor white
+	StartColor #2FA4E7
+	EndColor #2FA4E7
+	BoxBackgroundColor white
+	BoxBorderColor #868E96
+	BoxFontColor #343A40
+	DelayFontColor #343A40
+	LifeLineBorderColor #BABDBF
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor white
+	GroupBorderColor #868E96
+	GroupFontColor #343A40
+	GroupHeaderFontColor #033C73
+	GroupBackgroundColor #E9ECEF
+	GroupBodyBackgroundColor white
+	GroupHeaderBackgroundColor white
+	DividerBackgroundColor white
+    DividerBorderColor #868E96
+    DividerBorderThickness 2
+    DividerFontColor #343A40
+	ReferenceBackgroundColor white
+	ReferenceBorderColor #868E96
+	ReferenceFontColor #343A40
+	ReferenceHeaderFontColor #033C73
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam partition {
+	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam collections {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam control {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam entity {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam boundary {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam agent {
+	BackgroundColor white
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor white
+	BorderColor #033C73
+	FontColor #033C73
+}
+
+
+skinparam artifact {
+	BackgroundColor white
+	BorderColor #868E96
+	FontColor #868E96
+}
+
+
+skinparam component {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam interface {
+	BackgroundColor  white
+	BorderColor  #C71C22
+	FontColor #343A40
+}
+
+
+skinparam storage {
+	BackgroundColor white
+  	BorderColor #DD5600
+	FontColor #DD5600
+}
+
+
+skinparam node {
+	BackgroundColor white
+	BorderColor #343A40
+	FontColor #343A40
+}
+
+
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor #35638F
+	FontColor #343A40
+}
+
+
+skinparam database {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam class {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	FontColor #F8F9FA
+	HeaderBackgroundColor #2FA4E7-#2683B9
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #BABDBF
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam rectangle {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam package {
+	BackgroundColor white
+  	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor white
+  	BorderColor #DD5600
+	FontColor #DD5600
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor white
+  	BorderColor #033C73
+	FontColor #033C73
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	StartColor #033C73
+	EndColor #033C73
+	AttributeFontColor #BABDBF
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam card {
+	BackgroundColor white
+	BorderColor #033C73
+	FontColor #033C73
+}
+
+
+skinparam file {
+	BackgroundColor white
+	BorderColor #868E96
+	FontColor #868E96
+}
+
+
+skinparam stack {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+
+
+cloud {
+    node "DB Server" as dbserver {
+        database PostgreSQL as db
+    }
+    node "Application Server" as appserver {
+        package orm {
+            component "My mapper" as mapper
+        } 
+        note left of mapper: The mapper \nI shouldn't \n have written
+        
+
+    }
+
+    mapper -> db : query data
+}
+
+
+@enduml
+
+PlantUML version 1.2021.11(Sat Oct 02 13:26:11 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

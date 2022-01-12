@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="634.375px" preserveAspectRatio="none" style="width:1271px;height:634px;background:#FFFFFF;" version="1.1" viewBox="0 0 1271 634" width="1271.875px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="45.0846" rx="4.1667" ry="4.1667" style="stroke:#BABDBF;stroke-width:1.0416666666666667;" width="205.2083" x="553.3854" y="14.5833"/><text fill="#2FA4E7" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="178.125" x="566.9271" y="44.338">GitHub Workflow</text><rect fill="#FFFFFF" height="187.3698" style="stroke:#BABDBF;stroke-width:1.0416666666666667;" width="10.4167" x="425.5208" y="241.862"/><rect fill="#FFFFFF" height="14.5833" style="stroke:#BABDBF;stroke-width:1.0416666666666667;" width="10.4167" x="619.2708" y="281.4128"/><rect fill="#FFFFFF" height="14.5833" style="stroke:#BABDBF;stroke-width:1.0416666666666667;" width="10.4167" x="997.3958" y="335.5469"/><rect fill="#FFFFFF" height="39.5508" style="stroke:#BABDBF;stroke-width:1.0416666666666667;" width="10.4167" x="1204.1667" y="389.681"/><line style="stroke:#BABDBF;stroke-width:2.0833333333333335;stroke-dasharray:5.0,5.0;" x1="45.8333" x2="45.8333" y1="160.6771" y2="541.6341"/><line style="stroke:#BABDBF;stroke-width:2.0833333333333335;stroke-dasharray:5.0,5.0;" x1="266.1458" x2="266.1458" y1="160.6771" y2="541.6341"/><line style="stroke:#BABDBF;stroke-width:2.0833333333333335;stroke-dasharray:5.0,5.0;" x1="430.7292" x2="430.7292" y1="160.6771" y2="541.6341"/><line style="stroke:#BABDBF;stroke-width:2.0833333333333335;stroke-dasharray:5.0,5.0;" x1="624.4792" x2="624.4792" y1="160.6771" y2="541.6341"/><line style="stroke:#BABDBF;stroke-width:2.0833333333333335;stroke-dasharray:5.0,5.0;" x1="817.1875" x2="817.1875" y1="160.6771" y2="541.6341"/><line style="stroke:#BABDBF;stroke-width:2.0833333333333335;stroke-dasharray:5.0,5.0;" x1="1002.6042" x2="1002.6042" y1="160.6771" y2="541.6341"/><line style="stroke:#BABDBF;stroke-width:2.0833333333333335;stroke-dasharray:5.0,5.0;" x1="1208.8542" x2="1208.8542" y1="160.6771" y2="541.6341"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="65.625" x="10.4167" y="152.5208">Developer</text><ellipse cx="46.3542" cy="80.5013" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke:#2FA4E7;stroke-width:2.0833333333333335;"/><path d="M46.3542,88.8346 L46.3542,116.9596 M32.8125,97.168 L59.8958,97.168 M46.3542,116.9596 L32.8125,132.5846 M46.3542,116.9596 L59.8958,132.5846 " fill="none" style="stroke:#2FA4E7;stroke-width:2.0833333333333335;"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="65.625" x="10.4167" y="557.4036">Developer</text><ellipse cx="46.3542" cy="575.9766" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke:#2FA4E7;stroke-width:2.0833333333333335;"/><path d="M46.3542,584.3099 L46.3542,612.4349 M32.8125,592.6432 L59.8958,592.6432 M46.3542,612.4349 L32.8125,628.0599 M46.3542,612.4349 L59.8958,628.0599 " fill="none" style="stroke:#2FA4E7;stroke-width:2.0833333333333335;"/><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="68.75" x="231.7708" y="120.0846"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="43.75" x="244.2708" y="144.1874">GitHub</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="68.75" x="231.7708" y="540.5924"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="43.75" x="244.2708" y="564.6952">GitHub</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="72.9167" x="394.2708" y="120.0846"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="47.9167" x="406.7708" y="144.1874">Actions</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="72.9167" x="394.2708" y="540.5924"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="47.9167" x="406.7708" y="564.6952">Actions</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="127.0833" x="560.9375" y="120.0846"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="102.0833" x="573.4375" y="144.1874">ActionCheckout</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="127.0833" x="560.9375" y="540.5924"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="102.0833" x="573.4375" y="564.6952">ActionCheckout</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="70.8333" x="781.7708" y="120.0846"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="794.2708" y="144.1874">Actiont</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="70.8333" x="781.7708" y="540.5924"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="794.2708" y="564.6952">Actiont</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="112.5" x="946.3542" y="120.0846"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="87.5" x="958.8542" y="144.1874">ActionRender</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="112.5" x="946.3542" y="540.5924"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="87.5" x="958.8542" y="564.6952">ActionRender</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="113.5417" x="1152.6042" y="120.0846"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="88.5417" x="1165.1042" y="144.1874">ActionCommit</text><rect fill="#FFFFFF" height="39.5508" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.5625;" width="113.5417" x="1152.6042" y="540.5924"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="88.5417" x="1165.1042" y="564.6952">ActionCommit</text><rect fill="#FFFFFF" height="187.3698" style="stroke:#BABDBF;stroke-width:1.0416666666666667;" width="10.4167" x="425.5208" y="241.862"/><rect fill="#FFFFFF" height="14.5833" style="stroke:#BABDBF;stroke-width:1.0416666666666667;" width="10.4167" x="619.2708" y="281.4128"/><rect fill="#FFFFFF" height="14.5833" style="stroke:#BABDBF;stroke-width:1.0416666666666667;" width="10.4167" x="997.3958" y="335.5469"/><rect fill="#FFFFFF" height="39.5508" style="stroke:#BABDBF;stroke-width:1.0416666666666667;" width="10.4167" x="1204.1667" y="389.681"/><polygon fill="#2FA4E7" points="253.6458,198.1445,264.0625,202.3112,253.6458,206.4779,257.8125,202.3112" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;" x1="46.3542" x2="259.8958" y1="202.3112" y2="202.3112"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="58.8542" y="192.0715">push diagram change</text><polygon fill="#2FA4E7" points="413.0208,237.6953,423.4375,241.862,413.0208,246.0286,417.1875,241.862" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;" x1="266.1458" x2="419.2708" y1="241.862" y2="241.862"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="103.125" x="278.6458" y="231.6223">trigger workflow</text><polygon fill="#2FA4E7" points="606.7708,277.2461,617.1875,281.4128,606.7708,285.5794,610.9375,281.4128" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;" x1="435.9375" x2="613.0208" y1="281.4128" y2="281.4128"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="101.0417" x="448.4375" y="271.1731">check out code</text><polygon fill="#2FA4E7" points="804.6875,291.8294,815.1042,295.9961,804.6875,300.1628,808.8542,295.9961" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="624.4792" x2="810.9375" y1="295.9961" y2="295.9961"/><polygon fill="#2FA4E7" points="984.8958,331.3802,995.3125,335.5469,984.8958,339.7135,989.0625,335.5469" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;" x1="435.9375" x2="991.1458" y1="335.5469" y2="335.5469"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="108.3333" x="448.4375" y="325.3072">render diagrams</text><polygon fill="#2FA4E7" points="447.3958,345.9635,436.9792,350.1302,447.3958,354.2969,443.2292,350.1302" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="441.1458" x2="1001.5625" y1="350.1302" y2="350.1302"/><polygon fill="#2FA4E7" points="1191.6667,385.5143,1202.0833,389.681,1191.6667,393.8477,1195.8333,389.681" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;" x1="435.9375" x2="1197.9167" y1="389.681" y2="389.681"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="95.8333" x="448.4375" y="379.4413">commit results</text><polygon fill="#2FA4E7" points="277.6042,425.0651,267.1875,429.2318,277.6042,433.3984,273.4375,429.2318" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="271.3542" x2="1208.3333" y1="429.2318" y2="429.2318"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="81.25" x="289.0625" y="418.9921">push results</text><polygon fill="#2FA4E7" points="253.6458,464.6159,264.0625,468.7826,253.6458,472.9492,257.8125,468.7826" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;" x1="46.3542" x2="259.8958" y1="468.7826" y2="468.7826"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="22.9167" x="58.8542" y="458.5429">pull</text><polygon fill="#2FA4E7" points="57.8125,518.7174,47.3958,522.8841,57.8125,527.0508,53.6458,522.8841" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;"/><line style="stroke:#2FA4E7;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="51.5625" x2="265.1042" y1="522.8841" y2="522.8841"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="184.375" x="69.2708" y="498.0937">updated sources containing</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="151.0417" x="73.4375" y="512.6444">the rendered diagrams</text><!--MD5=[11cc37df24c6e2c25bee94d6e97294d8]
+@startuml gh-workflow
+!theme local from ./
+
+title GitHub Workflow
+
+actor Developer
+
+Developer -> GitHub : push diagram change
+GitHub -> Actions ++: trigger workflow
+Actions -> ActionCheckout ++ : check out code
+Actiont <- - ActionCheckout - -
+Actions -> ActionRender ++ : render diagrams
+Actions <- - ActionRender - -
+Actions -> ActionCommit ++ : commit results
+ActionCommit - -> GitHub - - : push results
+Actions - -
+Developer -> GitHub : pull
+Developer <- - GitHub : updated sources containing\n the rendered diagrams
+
+@enduml
+
+@startuml gh-workflow
+
+
+
+skinparam backgroundColor white
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #868E96
+skinparam stereotype {
+    CBackgroundColor #EDF0F2
+    CBorderColor #BABDBF
+    ABackgroundColor #8FB961
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor #D2494E
+    IBorderColor $DANGER_DARK
+    EBackgroundColor #E47833
+    EBorderColor $WARNING_DARK
+    NBackgroundColor #35638F
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 #2FA4E7
+	BorderColor	                 #BABDBF
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              white
+}
+
+skinparam legend {
+	BackgroundColor white
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+skinparam swimlane {
+	BorderColor #033C73
+	BorderThickness 2
+	TitleBackgroundColor  #EDF0F2-#E9ECEF
+	TitleFontColor #2FA4E7
+}
+
+
+skinparam activity {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	BarColor #73A839
+	StartColor #033C73
+	EndColor #033C73
+	DiamondBackgroundColor white
+  	DiamondBorderColor #BABDBF
+	DiamondFontColor #BABDBF
+}
+
+
+skinparam participant {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam sequence {
+	BorderColor #2FA4E7
+	TitleFontColor #2FA4E7
+	BackgroundColor white
+	StartColor #2FA4E7
+	EndColor #2FA4E7
+	BoxBackgroundColor white
+	BoxBorderColor #868E96
+	BoxFontColor #343A40
+	DelayFontColor #343A40
+	LifeLineBorderColor #BABDBF
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor white
+	GroupBorderColor #868E96
+	GroupFontColor #343A40
+	GroupHeaderFontColor #033C73
+	GroupBackgroundColor #E9ECEF
+	GroupBodyBackgroundColor white
+	GroupHeaderBackgroundColor white
+	DividerBackgroundColor white
+    DividerBorderColor #868E96
+    DividerBorderThickness 2
+    DividerFontColor #343A40
+	ReferenceBackgroundColor white
+	ReferenceBorderColor #868E96
+	ReferenceFontColor #343A40
+	ReferenceHeaderFontColor #033C73
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam partition {
+	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam collections {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam control {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam entity {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam boundary {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam agent {
+	BackgroundColor white
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor white
+	BorderColor #033C73
+	FontColor #033C73
+}
+
+
+skinparam artifact {
+	BackgroundColor white
+	BorderColor #868E96
+	FontColor #868E96
+}
+
+
+skinparam component {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam interface {
+	BackgroundColor  white
+	BorderColor  #C71C22
+	FontColor #343A40
+}
+
+
+skinparam storage {
+	BackgroundColor white
+  	BorderColor #DD5600
+	FontColor #DD5600
+}
+
+
+skinparam node {
+	BackgroundColor white
+	BorderColor #343A40
+	FontColor #343A40
+}
+
+
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor #35638F
+	FontColor #343A40
+}
+
+
+skinparam database {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam class {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	FontColor #F8F9FA
+	HeaderBackgroundColor #2FA4E7-#2683B9
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #BABDBF
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam rectangle {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam package {
+	BackgroundColor white
+  	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor white
+  	BorderColor #DD5600
+	FontColor #DD5600
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor white
+  	BorderColor #033C73
+	FontColor #033C73
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+	StartColor #033C73
+	EndColor #033C73
+	AttributeFontColor #BABDBF
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+skinparam card {
+	BackgroundColor white
+	BorderColor #033C73
+	FontColor #033C73
+}
+
+
+skinparam file {
+	BackgroundColor white
+	BorderColor #868E96
+	FontColor #868E96
+}
+
+
+skinparam stack {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor white
+}
+
+
+
+
+title GitHub Workflow
+
+actor Developer
+
+Developer -> GitHub : push diagram change
+GitHub -> Actions ++: trigger workflow
+Actions -> ActionCheckout ++ : check out code
+Actiont <- - ActionCheckout - -
+Actions -> ActionRender ++ : render diagrams
+Actions <- - ActionRender - -
+Actions -> ActionCommit ++ : commit results
+ActionCommit - -> GitHub - - : push results
+Actions - -
+Developer -> GitHub : pull
+Developer <- - GitHub : updated sources containing\n the rendered diagrams
+
+@enduml
+
+PlantUML version 1.2021.11(Sat Oct 02 13:26:11 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
