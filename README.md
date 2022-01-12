@@ -8,7 +8,7 @@ They are often stored in binary formats making it hard to see what exactly chang
 
 Wouldn't it be nice if we could use code to create them, store them with our codebase, diff, and review them like any other source file?
 
-Turns. using [PlantUML](https://plantuml.com/) out we can.
+Turns out, using [PlantUML](https://plantuml.com/), we can.
 
 ## How?
 
