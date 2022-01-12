@@ -1,0 +1,21 @@
+@startuml deployment
+!theme local from ./
+
+cloud {
+    node "DB Server" as dbserver {
+        database PostgreSQL as db
+    }
+    node "Application Server" as appserver {
+        package orm {
+            component "My mapper" as mapper
+        } 
+        note left of mapper: The mapper \nI shouldn't \n have written
+        
+
+    }
+
+    mapper -> db : query data
+}
+
+
+@enduml

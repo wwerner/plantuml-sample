@@ -1,0 +1,20 @@
+@startuml gh-workflow
+!theme local from ./
+
+title GitHub Workflow
+
+actor Developer
+
+Developer -> GitHub : push diagram change
+GitHub -> Actions ++: trigger workflow
+Actions -> ActionCheckout ++ : check out code
+Actiont <-- ActionCheckout --
+Actions -> ActionRender ++ : render diagrams
+Actions <-- ActionRender --
+Actions -> ActionCommit ++ : commit results
+ActionCommit --> GitHub -- : push results
+Actions --
+Developer -> GitHub : pull
+Developer <-- GitHub : updated sources containing\n the rendered diagrams
+
+@enduml

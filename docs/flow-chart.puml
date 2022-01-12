@@ -1,0 +1,18 @@
+@startuml flow-chart
+!theme local from ./
+
+start
+if (Does it move?) then (yes)
+    if (Should it?) then (yes)
+    else (no)
+        :Duct Tape;
+    endif
+else (no)
+    if (Should it?) then (yes)
+        :WD40;
+    else (no)
+    endif
+endif
+:Another job well done;
+stop
+@enduml
