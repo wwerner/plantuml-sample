@@ -1,5 +1,4 @@
 @startuml
-!theme local from ./
 
 node A
 node B
