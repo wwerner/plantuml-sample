@@ -1,0 +1,11 @@
+@startuml
+
+node A
+node B
+node C
+
+A -> B
+B -> C
+A -> C
+
+@enduml
